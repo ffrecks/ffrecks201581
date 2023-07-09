@@ -1,0 +1,38 @@
+ID,No,Rarity,Dev. Rate,Level,Name,Damage,Accuracy,Evasion,Armor,Crit.Damage,Talent,Skill,Locked
+518,16,?????,3000,100,Rescue Fairy,32.0,80.0,64.0,0.0,0,Fervor,5,Locked
+4775,6,?????,3000,100,Taunt Fairy,18.0,58.0,28.0,8.0,0,Fervor,10,Locked
+8140,9,?????,3000,100,Airstrike Fairy,30.0,50.0,40.0,10.0,0,Fervor,10,Locked
+11646,3,?????,3000,74,Armor Fairy,16.0,0.0,0.0,17.6,0,Fervor,6,Locked
+15075,17,?????,3000,100,Illumination Fairy,0.0,90.0,32.0,8.0,0,Damage II,10,Locked
+21051,2,?????,3000,100,Fury Fairy,15.0,0.0,40.0,10.0,0,Damage II,8,Locked
+25860,8,?????,3000,100,Artillery Fairy,55.0,0.0,56.0,6.0,0,Fervor,8,Locked
+26280,1,?????,3000,100,Warrior Fairy,25.0,80.0,40.0,10.0,0,Damage II,8,Locked
+41828,4,?????,3000,100,Shield Fairy,20.0,60.0,80.0,0.0,0,Damage II,9,Locked
+41829,7,?????,3000,100,Sniper Fairy,0.0,88.0,28.0,15.0,0,Fervor,10,Locked
+74001,18,?,0,40,Golden Fairy,4.4,13.6,10.8,2.8,0,Suppression,1,Locked
+85734,14,??,100,20,Construction Fairy,5.5,17.0,13.5,3.5,0,Armor I,4,Locked
+105567,1007,?????,550,100,Anna Graem,25.0,30.0,65.0,8.0,0,Damage II,7,Locked
+170104,17,????,1700,40,Illumination Fairy,0.0,39.6,14.4,3.6,0,Fervor,10,Locked
+170106,11,???,620,40,Parachute Fairy,13.8,0.0,12.6,3.0,0,Assault,10,Locked
+179866,19,??,100,20,Cooking Fairy,2.5,4.5,17.0,4.5,0,Fervor,1,Locked
+211421,12,??,200,20,Landmine Fairy,8.5,14.5,28.0,0.0,0,Damage II,4,Locked
+211426,13,?,0,1,Rocket Fairy,0.0,10.0,0.0,5.2,0,Damage II,2,Locked
+212563,25,????,2900,70,Twin Fairies,12.0,40.0,32.0,8.8,0,Damage II,9,Locked
+227462,24,????,2155,40,Barrier Fairy,0.0,30.6,13.2,9.6,0,Accuracy I,1,Locked
+238536,20,???,200,40,Fireworks Fairy,10.8,25.2,11.4,3.0,0,Splendor,1,Locked
+262002,1005,??,100,20,Sehra & Nina,4.5,12.0,15.0,0.0,0,Armor II,2,Locked
+277340,1004,?????,550,100,Suee,0.0,0.0,70.0,18.0,0,Fervor,9,Locked
+347181,21,??,100,20,Zodiac Fairy,6.0,0.0,5.0,5.0,0,Damage II,1,Locked
+427730,22,?????,550,100,Beach Fairy,32.0,0.0,40.0,0.0,0,Damage II,10,Locked
+427732,22,?????,550,100,Beach Fairy,32.0,0.0,40.0,0.0,0,Damage II,10,Locked
+436997,11,??,100,1,Parachute Fairy,5.6,0.0,5.2,1.2,0,Assault,8,Locked
+441881,6,???,900,41,Taunt Fairy,7.2,23.4,11.4,3.6,0,Assault,8,Locked
+531598,27,???,200,1,Auspicious Fairy,3.2,12.0,16.0,0.0,0,Fervor,1,Locked
+981116,1009,???,250,1,Drive-In Chicken,2.8,0.0,7.2,2.8,0,Assault,1,Locked
+1003489,8,?,0,1,Artillery Fairy,10.8,0.0,11.2,1.2,0,Evasion I,1,
+1003490,9,?,0,1,Airstrike Fairy,4.8,8.0,6.4,1.6,0,Evasion I,1,
+1003629,8,?,0,1,Artillery Fairy,10.8,0.0,11.2,1.2,0,Evasion II,1,
+111,15,?????,3000,100,Command Fairy,36.0,0.0,32.0,8.0,0,Fervor,10,Locked
+15308,11,?????,3000,100,Parachute Fairy,36.0,0.0,32.0,8.0,0,Damage II,10,Locked
+329234,23,??,350,37,Combo Fairy,10.5,30.5,0.0,0.0,0,Damage II,7,Locked
+269330,1006,?????,550,70,Preiya & Camilia,15.2,34.4,7.2,7.2,0,Assault,1,Locked

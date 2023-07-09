@@ -1,0 +1,360 @@
+ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fire,Crit.Rate,Crit.Damage,Armor Pen.,Armor,Shield,Damage Amplify,Damage Reduction,Night View,Rounds,Equip Exp,Equip Level,EQUIP_INFO_ADJUST_MAX,Adjust Count,Locked
+1424407,20,AP (Ammo),?????,Mk211 High-Explosive Armor-Piercing Ammo,-,-,-,-,-,-,-,-,-,180,-,-,-,-,-,-,10000,10,MAX,3,Locked
+1429382,16,PEQ (Acc),?????,PEQ-16A,9788051,UMP9 Mod,-,-,-,-,-,-,-,-,-,-,-,-,100%,-,0,0,MAX,18,Locked
+1526006,16,PEQ (Acc),?????,PEQ-16A,43420718,AUG,-,-,-,-,-,-,-,-,-,-,-,-,100%,-,0,0,MAX,10,Locked
+1826988,49,PEQ (Acc),?????,16Lab Infrared Designator,65388085,AS Val Mod,-,-,-,-,-,-,-,-,-,-,-,-,100.000%,-,0,0,MAX,0,Locked
+1893790,76,Buck (Shell),?????,#000 Buckshot,-,-,10,-,-,-,-,-,15%,-,-,-,-,-,-,-,0,0,MAX,9,Locked
+1959229,44,Plate (Body),?????,Type 3 Armor Plate,154633082,DP-12,-,-,-2,-,-,-,-,-,11,-,-,-,-,-,10000,10,MAX,6,Locked
+1995496,50,AP (Ammo),?????,16Lab Sub-Caliber Armor-Piercing Ammo,-,-,-,-,-,-,-,-,-,180.0000,-,-,-,-,-,-,10350,10,MAX,0,Locked
+2326921,40,T Exo (Body),?????,IOP T4 Exoskeleton,22497668,Gr G36c Mod,-6,-,35,-,-,-,-,-,-,-,-,-,-,-,10025,10,MAX,12,Locked
+2404074,8,EOT (Holographic),?????,EOT 518,-,-,8,14,-,-,-4,-,-,-,-,-,-,-,-,-,10025,10,MAX,16,Locked
+2481780,58,X Exo (Body),?????,IOP X4 Exoskeleton,-,-,-,-,20,-,-,-,-,-,-,-,-,-,-,-,10000,10,MAX,7,Locked
+2511599,4,Optical (Acc),?????,VFL 6-24X56,-,-,-,-,-,-,-,48%,-,-,-,-,-,-,-,-,10025,10,MAX,8,Locked
+2512638,32,HV (Ammo),?????,APCR High-Velocity Ammo,36399646,Ribeyrolles Mod,20,-,-,-,-,-,-,-,-,-,-,-,-,-,10000,10,MAX,7,Locked
+2542818,66,Supp (Silencer),?????,AC4 Suppressor,-,-,-,-,10,-,-,20%,-,-,-,-,-,-,-,-,10000,10,MAX,6,Locked
+2570648,12,Red Dot (Acc),?????,ITI MARS,-,-,-,30,-,-,-1,-,-,-,-,-,-,-,-,-,10000,10,MAX,16,Locked
+2626814,8,EOT (Holographic),?????,EOT 518,-,-,8,14,-,-,-4,-,-,-,-,-,-,-,-,-,10000,10,MAX,16,Locked
+2662548,44,Plate (Body),?????,Type 3 Armor Plate,12494557,M16A1,-,-,-2,-,-,-,-,-,11,-,-,-,-,-,10075,10,MAX,6,Locked
+2751255,16,PEQ (Acc),?????,PEQ-16A,202011039,SCAR-L,-,-,-,-,-,-,-,-,-,-,-,-,100%,-,0,0,MAX,8,Locked
+3117359,44,Plate (Body),?????,Type 3 Armor Plate,-,-,-,-,-2,-,-,-,-,-,8,-,-,-,-,-,0,0,MAX,16,Locked
+3168199,8,EOT (Holographic),?????,EOT 518,7401385,Vector,8,14,-,-,-4,-,-,-,-,-,-,-,-,-,10075,10,MAX,11,Locked
+3241059,90,Cape (Body),?????,Thermoptic Camouflage Cape,-,-,-,-,-,-3.0000,-,-,25%,-,-,-,-,-,-,-,10075,10,MAX,4,Locked
+3242132,32,HV (Ammo),?????,APCR High-Velocity Ammo,65388085,AS Val Mod,20,-,-,-,-,-,-,-,-,-,-,-,-,-,10000,10,MAX,6,Locked
+3303775,4,Optical (Acc),?????,VFL 6-24X56,-,-,-,-,-,-,-,48%,-,-,-,-,-,-,-,-,10000,10,MAX,4,Locked
+4083277,59,Sp. Eq (Exclusive),?????,National Match-Grade Armor-Piercing Ammo,10048186,Springfield,-,-,-,-,10,-,-,195,-,-,-,-,-,-,30075,10,MAX,16,Locked
+4210080,60,Sp. Eq (Exclusive),?????,.300BLK High-Velocity Ammo,9354442,ST AR-15 Mod,35,-,-,-,-10,-,-,-,-,-,-,-,-,-,30025,10,MAX,6,Locked
+4229665,32,HV (Ammo),?????,APCR High-Velocity Ammo,12494557,M16A1,20,-,-,-,-,-,-,-,-,-,-,-,-,-,10000,10,MAX,2,Locked
+4266926,58,X Exo (Body),?????,IOP X4 Exoskeleton,-,-,-,-,20,-,-,-,-,-,-,-,-,-,-,-,10075,10,MAX,2,Locked
+4292972,72,HP (Ammo),?????,ILM Hollow-Point Ammo,9788051,UMP9 Mod,15,-,-,-,-,-,-,-7,-,-,-,-,-,-,10025,10,MAX,6,Locked
+4295790,16,PEQ (Acc),?????,PEQ-16A,22497668,Gr G36c Mod,-,-,-,-,-,-,-,-,-,-,-,-,100%,-,0,0,MAX,5,Locked
+4562571,40,T Exo (Body),?????,IOP T4 Exoskeleton,55549295,C-MS,-6,-,35,-,-,-,-,-,-,-,-,-,-,-,10175,10,MAX,6,Locked
+4611017,16,PEQ (Acc),?????,PEQ-16A,8787621,TAR-21,-,-,-,-,-,-,-,-,-,-,-,-,100%,-,0,0,MAX,10,Locked
+4727952,4,Optical (Acc),?????,VFL 6-24X56,-,-,-,-,-,-,-,48%,-,-,-,-,-,-,-,-,10000,10,MAX,11,Locked
+4778438,66,Supp (Silencer),?????,AC4 Suppressor,-,-,-,-,8,-,-,15%,-,-,-,-,-,-,-,-,0,0,MAX,6,Locked
+4928161,44,Plate (Body),?????,Type 3 Armor Plate,-,-,-,-,-2,-,-,-,-,-,8,-,-,-,-,-,0,0,MAX,2,Locked
+4953467,68,MG Box (Body),?????,IOP Maximum Ammo Box,-,-,-,-,-2,-,-,-,-,-,-,-,-,-,-,5,10025,10,MAX,6,Locked
+5001029,68,MG Box (Body),?????,IOP Maximum Ammo Box,-,-,-,-,-2,-,-,-,-,-,-,-,-,-,-,5,10000,10,MAX,6,Locked
+5063083,8,EOT (Holographic),?????,EOT 518,-,-,6,10,-,-,-4,-,-,-,-,-,-,-,-,-,0,0,MAX,16,Locked
+5100445,68,MG Box (Body),?????,IOP Maximum Ammo Box,-,-,-,-,-2,-,-,-,-,-,-,-,-,-,-,5,10000,10,MAX,2,Locked
+5100559,72,HP (Ammo),?????,ILM Hollow-Point Ammo,22497668,Gr G36c Mod,15,-,-,-,-,-,-,-7,-,-,-,-,-,-,10025,10,MAX,16,Locked
+5100565,20,AP (Ammo),?????,Mk211 High-Explosive Armor-Piercing Ammo,-,-,-,-,-,-,-,-,-,180,-,-,-,-,-,-,10100,10,MAX,12,Locked
+5100570,16,PEQ (Acc),?????,PEQ-16A,55549295,C-MS,-,-,-,-,-,-,-,-,-,-,-,-,100%,-,0,0,MAX,7,Locked
+5100573,32,HV (Ammo),?????,APCR High-Velocity Ammo,36064660,Gr G36 Mod,20,-,-,-,-,-,-,-,-,-,-,-,-,-,10025,10,MAX,3,Locked
+5165466,66,Supp (Silencer),?????,AC4 Suppressor,-,-,-,-,8,-,-,15%,-,-,-,-,-,-,-,-,0,0,MAX,16,Locked
+5248711,12,Red Dot (Acc),?????,ITI MARS,-,-,-,30,-,-,-1,-,-,-,-,-,-,-,-,-,10000,10,MAX,16,Locked
+5341579,109,Optical (Acc),?????,16Lab 6-24X56,-,-,-,-,-,-,-,48.0000%,-,-,-,-,-,-,-,-,10000,10,MAX,0,Locked
+5386675,110,HV (Ammo),?????,16Lab High-Velocity Ammo,13687257,Gr G41,20.000,-,-,-,-,-,-,-,-,-,-,-,-,-,10050,10,MAX,0,Locked
+5387306,4,Optical (Acc),?????,VFL 6-24X56,-,-,-,-,-,-,-,48%,-,-,-,-,-,-,-,-,10000,10,MAX,16,Locked
+5570468,61,Sp. Eq (Exclusive),?????,Titan Fire-Control Chip,12240763,M1918 Mod,-2,-,-,-,-1,-,-,-,-,-,-,-,-,6,30000,10,MAX,16,Locked
+5649741,32,HV (Ammo),?????,APCR High-Velocity Ammo,90494159,AK-12,20,-,-,-,-,-,-,-,-,-,-,-,-,-,10050,10,MAX,3,Locked
+5714120,66,Supp (Silencer),?????,AC4 Suppressor,-,-,-,-,8,-,-,15%,-,-,-,-,-,-,-,-,0,0,MAX,6,Locked
+5733854,66,Supp (Silencer),?????,AC4 Suppressor,-,-,-,-,8,-,-,15%,-,-,-,-,-,-,-,-,0,0,MAX,6,Locked
+5884836,68,MG Box (Body),?????,IOP Maximum Ammo Box,-,-,-,-,-2,-,-,-,-,-,-,-,-,-,-,5,10050,10,MAX,6,Locked
+5995447,8,EOT (Holographic),?????,EOT 518,-,-,7,12,-,-,-4,-,-,-,-,-,-,-,-,-,2500,5,MAX,16,Locked
+6033652,20,AP (Ammo),?????,Mk211 High-Explosive Armor-Piercing Ammo,-,-,-,-,-,-,-,-,-,180,-,-,-,-,-,-,10000,10,MAX,17,Locked
+6055624,72,HP (Ammo),?????,ILM Hollow-Point Ammo,11336140,UMP45 Mod,15,-,-,-,-,-,-,-7,-,-,-,-,-,-,10000,10,MAX,6,Locked
+6065616,90,Cape (Body),?????,Thermoptic Camouflage Cape,-,-,-,-,-,-3.0000,-,-,25%,-,-,-,-,-,-,-,10000,10,MAX,4,Locked
+6066568,68,MG Box (Body),?????,IOP Maximum Ammo Box,-,-,-,-,-2,-,-,-,-,-,-,-,-,-,-,5,10050,10,MAX,6,Locked
+6327984,94,Sp. Eq (Exclusive),?????,Tactical Memory Module,-,-,5,-3,-,-,-,-,-,-,-,-,-,-,-,4,0,0,MAX,6,Locked
+6365968,96,Cape (Body),?????,16Lab Thermoptic Cape,-,-,-,-,-,-3.0000,-,-,25.0000%,-,-,-,-,-,-,-,10050,10,MAX,0,Locked
+6382958,16,PEQ (Acc),?????,PEQ-16A,11336140,UMP45 Mod,-,-,-,-,-,-,-,-,-,-,-,-,100%,-,0,0,MAX,8,Locked
+6383819,95,HP (Ammo),?????,16Lab Hollow-Point,8788049,Gr MP5 Mod,15.000,-,-,-,-,-,-,-7.0000,-,-,-,-,-,-,10000,10,MAX,0,Locked
+6431326,16,PEQ (Acc),?????,PEQ-16A,8788049,Gr MP5 Mod,-,-,-,-,-,-,-,-,-,-,-,-,100%,-,0,0,MAX,5,Locked
+6431334,76,Buck (Shell),?????,#000 Buckshot,-,-,10,-,-,-,-,-,15%,-,-,-,-,-,-,-,0,0,MAX,6,Locked
+6440873,16,PEQ (Acc),?????,PEQ-16A,13687257,Gr G41,-,-,-,-,-,-,-,-,-,-,-,-,100%,-,0,0,MAX,10,Locked
+6608915,44,Plate (Body),?????,Type 3 Armor Plate,-,-,-,-,-2,-,-,-,-,-,8,-,-,-,-,-,0,0,MAX,6,Locked
+6694149,20,AP (Ammo),?????,Mk211 High-Explosive Armor-Piercing Ammo,-,-,-,-,-,-,-,-,-,180,-,-,-,-,-,-,10000,10,MAX,20,Locked
+6694154,4,Optical (Acc),?????,VFL 6-24X56,-,-,-,-,-,-,-,48%,-,-,-,-,-,-,-,-,10000,10,MAX,10,Locked
+6777119,66,Supp (Silencer),?????,AC4 Suppressor,-,-,-,-,8,-,-,15%,-,-,-,-,-,-,-,-,0,0,MAX,14,Locked
+6843043,90,Cape (Body),?????,Thermoptic Camouflage Cape,-,-,-,-,-,-3.0000,-,-,25%,-,-,-,-,-,-,-,10000,10,MAX,9,Locked
+6963585,82,Buck (Shell),?????,16Lab Buckshot,-,-,10.0000,-,-,-,-,-,15.0000%,-,-,-,-,-,-,-,0,0,MAX,0,Locked
+7019389,81,Plate (Body),?????,16Lab Armor Plate,12651449,RMB-93 Mod,-,-,-2.0000,-,-,-,-,-,9.0000,-,-,-,-,-,2000,5,MAX,0,Locked
+7270349,8,EOT (Holographic),?????,EOT 518,-,-,6,10,-,-,-4,-,-,-,-,-,-,-,-,-,0,0,MAX,16,Locked
+7819186,40,T Exo (Body),?????,IOP T4 Exoskeleton,9361729,9A-91,-6,-,32,-,-,-,-,-,-,-,-,-,-,-,5225,7,MAX,16,Locked
+7848434,8,EOT (Holographic),?????,EOT 518,-,-,6,10,-,-,-4,-,-,-,-,-,-,-,-,-,0,0,MAX,16,Locked
+8005005,12,Red Dot (Acc),?????,ITI MARS,-,-,-,30,-,-,-1,-,-,-,-,-,-,-,-,-,10025,10,MAX,6,Locked
+8046298,8,EOT (Holographic),?????,EOT 518,-,-,6,10,-,-,-4,-,-,-,-,-,-,-,-,-,0,0,MAX,6,Locked
+8084632,68,MG Box (Body),?????,IOP Maximum Ammo Box,-,-,-,-,-2,-,-,-,-,-,-,-,-,-,-,5,10000,10,MAX,6,Locked
+8085537,58,X Exo (Body),?????,IOP X4 Exoskeleton,-,-,-,-,17,-,-,-,-,-,-,-,-,-,-,-,3675,6,MAX,6,Locked
+8255488,91,Sp. Eq (Exclusive),?????,Special Warfare Mobile Suit,12494557,M16A1,-,-20.000,10.000,-,-10.0000,-,-,-,20.0000,-,-,-,-,-,30000,10,MAX,0,Locked
+8421514,40,T Exo (Body),?????,IOP T4 Exoskeleton,86555408,Micro Uzi Mod,-6,-,33,-,-,-,-,-,-,-,-,-,-,-,5600,8,MAX,16,Locked
+8484662,84,Sp. Eq (Exclusive),?????,KST1P8,-,-,-,-,-,-,-,32.0000%,25.0000%,-,-,-,-,-,-,-,0,0,MAX,0,Locked
+8540949,90,Cape (Body),?????,Thermoptic Camouflage Cape,-,-,-,-,-,-3.0000,-,-,25%,-,-,-,-,-,-,-,10000,10,MAX,1,Locked
+8542113,68,MG Box (Body),?????,IOP Maximum Ammo Box,-,-,-,-,-2,-,-,-,-,-,-,-,-,-,-,5,10000,10,MAX,6,Locked
+8597565,20,AP (Ammo),?????,Mk211 High-Explosive Armor-Piercing Ammo,-,-,-,-,-,-,-,-,-,180,-,-,-,-,-,-,10075,10,MAX,13,Locked
+8711376,109,Optical (Acc),?????,16Lab 6-24X56,-,-,-,-,-,-,-,48.0000%,-,-,-,-,-,-,-,-,10025,10,MAX,0,Locked
+8878938,12,Red Dot (Acc),?????,ITI MARS,-,-,-,15,-,-,-1,-,-,-,-,-,-,-,-,-,0,0,MAX,15,Locked
+8910305,8,EOT (Holographic),?????,EOT 518,-,-,6,10,-,-,-4,-,-,-,-,-,-,-,-,-,0,0,MAX,16,Locked
+9211474,4,Optical (Acc),?????,VFL 6-24X56,-,-,-,-,-,-,-,48%,-,-,-,-,-,-,-,-,10000,10,MAX,9,Locked
+9334267,108,Sp. Eq (Exclusive),?????,Blue Thick Cape,-,-,-,-,-,-3.000,2,-,15%,-,-,-,-,-,-,-,0,0,MAX,8,Locked
+9494088,110,HV (Ammo),?????,16Lab High-Velocity Ammo,8627194,M4 SOPMOD II Mod,20.0000,-,-,-,-,-,-,-,-,-,-,-,-,-,10000,10,MAX,0,Locked
+9494091,109,Optical (Acc),?????,16Lab 6-24X56,-,-,-,-,-,-,-,48.000%,-,-,-,-,-,-,-,-,10025,10,MAX,0,Locked
+9494240,4,Optical (Acc),?????,VFL 6-24X56,-,-,-,-,-,-,-,48%,-,-,-,-,-,-,-,-,10000,10,MAX,6,Locked
+9557809,40,T Exo (Body),?????,IOP T4 Exoskeleton,71017113,Dorothy Haze,-6,-,31,-,-,-,-,-,-,-,-,-,-,-,3200,6,MAX,6,Locked
+9583570,20,AP (Ammo),?????,Mk211 High-Explosive Armor-Piercing Ammo,-,-,-,-,-,-,-,-,-,180,-,-,-,-,-,-,10050,10,MAX,16,Locked
+9593616,32,HV (Ammo),?????,APCR High-Velocity Ammo,9362189,416 Mod,20,-,-,-,-,-,-,-,-,-,-,-,-,-,10075,10,MAX,5,Locked
+10011979,72,HP (Ammo),?????,ILM Hollow-Point Ammo,86555408,Micro Uzi Mod,13,-,-,-,-,-,-,-7,-,-,-,-,-,-,3850,6,MAX,10,Locked
+10258437,8,EOT (Holographic),?????,EOT 518,-,-,6,10,-,-,-4,-,-,-,-,-,-,-,-,-,0,0,MAX,16,Locked
+10290841,20,AP (Ammo),?????,Mk211 High-Explosive Armor-Piercing Ammo,-,-,-,-,-,-,-,-,-,180,-,-,-,-,-,-,10025,10,MAX,14,Locked
+10312609,4,Optical (Acc),?????,VFL 6-24X56,-,-,-,-,-,-,-,48%,-,-,-,-,-,-,-,-,10000,10,MAX,6,Locked
+10532951,8,EOT (Holographic),?????,EOT 518,-,-,6,10,-,-,-4,-,-,-,-,-,-,-,-,-,0,0,MAX,6,Locked
+10771564,4,Optical (Acc),?????,VFL 6-24X56,-,-,-,-,-,-,-,48%,-,-,-,-,-,-,-,-,10000,10,MAX,9,Locked
+10860290,12,Red Dot (Acc),?????,ITI MARS,-,-,-,15,-,-,-1,-,-,-,-,-,-,-,-,-,0,0,MAX,16,Locked
+10861158,92,Sp. Eq (Exclusive),?????,UMP UX Exoskeleton,9788051,UMP9 Mod,-,-,35,-,-,-,25%,-,-,-,-,-,-,-,30075,10,MAX,15,Locked
+11011266,4,Optical (Acc),?????,VFL 6-24X56,-,-,-,-,-,-,-,48%,-,-,-,-,-,-,-,-,10000,10,MAX,1,Locked
+11086780,86,Sp. Eq (Exclusive),?????,Hayha Memory Chip,9173121,Mosin-Nagant Mod,28,-,4,-,-,-,27%,-,-,-,-,-,-,-,13000,7,MAX,26,Locked
+11133328,92,Sp. Eq (Exclusive),?????,UMP UX Exoskeleton,11336140,UMP45 Mod,-,-,35,-,-,-,25%,-,-,-,-,-,-,-,30025,10,MAX,12,Locked
+11264656,8,EOT (Holographic),?????,EOT 518,-,-,6,10,-,-,-4,-,-,-,-,-,-,-,-,-,0,0,MAX,16,Locked
+11464724,12,Red Dot (Acc),?????,ITI MARS,-,-,-,15,-,-,-1,-,-,-,-,-,-,-,-,-,0,0,MAX,16,Locked
+11539446,93,Sp. Eq (Exclusive),?????,PKN03M Night Vision Scope,9361729,9A-91,8.0000,-,-,-,-,-,-,-,-,-,-,-,100.0000%,-,30000,10,MAX,0,Locked
+12067320,121,T Exo (Body),?????,16Lab T4 Exoskeleton,42961073,Suomi Mod,-6.0000,-,35.0000,-,-,-,-,-,-,-,-,-,-,-,10000,10,MAX,0,Locked
+12136193,120,Red Dot (Acc),?????,16Lab MARS,-,-,-,15.0000,-,-,-1.000,-,-,-,-,-,-,-,-,-,0,0,MAX,0,Locked
+12250880,4,Optical (Acc),?????,VFL 6-24X56,-,-,-,-,-,-,-,48%,-,-,-,-,-,-,-,-,10000,10,MAX,8,Locked
+12453265,90,Cape (Body),?????,Thermoptic Camouflage Cape,-,-,-,-,-,-3.0000,-,-,25%,-,-,-,-,-,-,-,10000,10,MAX,8,Locked
+12481319,20,AP (Ammo),?????,Mk211 High-Explosive Armor-Piercing Ammo,-,-,-,-,-,-,-,-,-,180,-,-,-,-,-,-,10075,10,MAX,10,Locked
+12572545,12,Red Dot (Acc),?????,ITI MARS,-,-,-,15,-,-,-1,-,-,-,-,-,-,-,-,-,0,0,MAX,16,Locked
+12875593,12,Red Dot (Acc),?????,ITI MARS,-,-,-,15,-,-,-1,-,-,-,-,-,-,-,-,-,0,0,MAX,9,Locked
+12928735,95,HP (Ammo),?????,16Lab Hollow-Point,-,-,15.000,-,-,-,-,-,-,-7.0000,-,-,-,-,-,-,10025,10,MAX,0,Locked
+13195865,4,Optical (Acc),?????,VFL 6-24X56,-,-,-,-,-,-,-,48%,-,-,-,-,-,-,-,-,10000,10,MAX,20,Locked
+13465090,12,Red Dot (Acc),?????,ITI MARS,-,-,-,15,-,-,-1,-,-,-,-,-,-,-,-,-,0,0,MAX,16,Locked
+13521233,4,Optical (Acc),?????,VFL 6-24X56,-,-,-,-,-,-,-,48%,-,-,-,-,-,-,-,-,10000,10,MAX,7,Locked
+13523532,137,Sp. Eq (Exclusive),?????,Adelhyde,-,-,-,-,15.0000,-,-,-,-,-,-,-,-,-,-,-,0,0,MAX,0,Locked
+13523533,138,Sp. Eq (Exclusive),?????,Flanergide,-,-,-,-,15.00,-,-,-,-,-,-,-,-,-,-,-,0,0,MAX,0,Locked
+13523534,139,Sp. Eq (Exclusive),?????,Adelhyde,-,-,-,-,15.0000,-,-,-,-,-,-,-,-,-,-,-,0,0,MAX,0,Locked
+13523535,140,Sp. Eq (Exclusive),?????,Bronson Extract,-,-,-,-,15.0000,-,-,-,-,-,-,-,-,-,-,-,0,0,MAX,0,Locked
+13523536,141,Sp. Eq (Exclusive),?????,Powdered Delta,-,-,-,-,15.0000,-,-,-,-,-,-,-,-,-,-,-,0,0,MAX,0,Locked
+13523537,142,Sp. Eq (Exclusive),?????,Karmotrine,-,-,-,-,15.0000,-,-,-,-,-,-,-,-,-,-,-,0,0,MAX,0,Locked
+13523538,143,Sp. Eq (Exclusive),?????,Karmotrine,-,-,-,-,15.000,-,-,-,-,-,-,-,-,-,-,-,0,0,MAX,0,Locked
+13523539,144,Sp. Eq (Exclusive),?????,Karmotrine,-,-,-,-,15.0000,-,-,-,-,-,-,-,-,-,-,-,0,0,MAX,0,Locked
+13699225,149,Sp. Eq (Exclusive),?????,Cybernetic Hands,-,-,4,-,-2,-,-,-,-,-,-,-,-,-,-,4,5000,4,MAX,6,Locked
+13756983,147,Sp. Eq (Exclusive),?????,White Knight's Armor,-,-,-,-,34,-,-,-,-,-,-,-,-,-,-,-,30000,10,MAX,4,Locked
+13816097,146,Sp. Eq (Exclusive),?????,MIRD Class-5 Rounds,71017113,Dorothy Haze,18,-,-,-,-,-,-,-7,-,-,-,-,-,-,7875,5,MAX,6,Locked
+13973199,148,Sp. Eq (Exclusive),?????,Prosthetic Eye,-,-,-,-,-,-3.000,2,-,20%,-,-,-,-,-,-,-,0,0,MAX,6,Locked
+13987797,145,Sp. Eq (Exclusive),?????,Prosthetic Arm,-,-,4,-,-2,-,-,-,-,-,9,-,-,-,-,-,3800,4,MAX,8,Locked
+14047049,12,Red Dot (Acc),?????,ITI MARS,-,-,-,15,-,-,-1,-,-,-,-,-,-,-,-,-,0,0,MAX,8,Locked
+14583876,12,Red Dot (Acc),?????,ITI MARS,-,-,-,15,-,-,-1,-,-,-,-,-,-,-,-,-,0,0,MAX,6,Locked
+14796016,12,Red Dot (Acc),?????,ITI MARS,-,-,-,15,-,-,-1,-,-,-,-,-,-,-,-,-,0,0,MAX,16,Locked
+15367196,16,PEQ (Acc),?????,PEQ-16A,36064660,Gr G36 Mod,-,-,-,-,-,-,-,-,-,-,-,-,100%,-,0,0,MAX,17,Locked
+15444604,16,PEQ (Acc),?????,PEQ-16A,9354442,ST AR-15 Mod,-,-,-,-,-,-,-,-,-,-,-,-,100%,-,0,0,MAX,16,Locked
+15484192,44,Plate (Body),?????,Type 3 Armor Plate,-,-,-,-,-2.5624,-,-,-,-,-,6.6684,-,-,-,-,-,0,0,,0,Locked
+15907005,4,Optical (Acc),?????,VFL 6-24X56,-,-,-,-,-,-,-,45%,-,-,-,-,-,-,-,-,8250,9,MAX,7,Locked
+16204235,161,Sp. Eq (Exclusive),?????,Advanced Infantry Sight,-,-,3,-,-,-,-,24%,-,-,-,-,-,-,-,-,0,0,MAX,16,Locked
+16307295,8,EOT (Holographic),?????,EOT 518,-,-,6,10,-,-,-4,-,-,-,-,-,-,-,-,-,0,0,MAX,16,Locked
+16537593,95,HP (Ammo),?????,16Lab Hollow-Point,23760171,RO635 Mod,15.0000,-,-,-,-,-,-,-7.000,-,-,-,-,-,-,10000,10,MAX,0,Locked
+16557327,76,Buck (Shell),?????,#000 Buckshot,-,-,10,-,-,-,-,-,15%,-,-,-,-,-,-,-,1,0,MAX,12,Locked
+16648610,110,HV (Ammo),?????,16Lab High-Velocity Ammo,90467377,AN-94 Mod,20.0000,-,-,-,-,-,-,-,-,-,-,-,-,-,10001,10,MAX,0,Locked
+16671052,32,HV (Ammo),?????,APCR High-Velocity Ammo,8219000,M4A1 Mod,20,-,-,-,-,-,-,-,-,-,-,-,-,-,10076,10,MAX,6,Locked
+16676145,16,PEQ (Acc),?????,PEQ-16A,9362189,416 Mod,-,-,-,-,-,-,-,-,-,-,-,-,100%,-,1,0,MAX,0,Locked
+16676146,20,AP (Ammo),?????,Mk211 High-Explosive Armor-Piercing Ammo,55549295,C-MS,-,-,-,-,-,-,-,180,-,-,-,-,-,-,10001,10,MAX,0,Locked
+16817743,58,X Exo (Body),?????,IOP X4 Exoskeleton,-,-,-,-,12,-,-,-,-,-,-,-,-,-,-,-,1,0,MAX,9,Locked
+16970536,16,PEQ (Acc),?????,PEQ-16A,8627194,M4 SOPMOD II Mod,-,-,-,-,-,-,-,-,-,-,-,-,100%,-,1,0,MAX,10,Locked
+17157850,99,Sp. Eq (Exclusive),?????,Inherited Case,8219000,M4A1 Mod,20,-,-,-,20,-,-,-,15,-,-,-,-,-,30051,10,MAX,6,Locked
+17210787,100,Sp. Eq (Exclusive),?????,Lightweight Rail Kit,9354442,ST AR-15 Mod,15,10,-,-,-,-,30%,-,-,-,-,-,-,-,30000,10,MAX,6,Locked
+17288362,40,T Exo (Body),?????,IOP T4 Exoskeleton,90466169,Honey Badger,-6,-,32,-,-,-,-,-,-,-,-,-,-,-,4026,7,MAX,16,Locked
+17557261,106,Sp. Eq (Exclusive),?????,EOT XPS3,-,-,6,10,-,-,-,15%,-,-,-,-,-,-,-,-,0,0,MAX,8,Locked
+17625893,40,T Exo (Body),?????,IOP T4 Exoskeleton,-,-,-6,-,25,-,-,-,-,-,-,-,-,-,-,-,0,0,MAX,16,Locked
+17672150,40,T Exo (Body),?????,IOP T4 Exoskeleton,23760171,RO635 Mod,-6,-,35,-,-,-,-,-,-,-,-,-,-,-,10000,10,MAX,16,Locked
+17675739,130,Sp. Eq (Exclusive),?????,Gr G36 Hybrid Sight,-,-,-,8,-,-,-,48%,-,-,-,-,-,-,-,-,30000,10,MAX,16,Locked
+17745079,40,T Exo (Body),?????,IOP T4 Exoskeleton,-,-,-6,-,25,-,-,-,-,-,-,-,-,-,-,-,0,0,MAX,16,Locked
+17945466,90,Cape (Body),?????,Thermoptic Camouflage Cape,-,-,-,-,-,-3.0000,-,-,25%,-,-,-,-,-,-,-,10000,10,MAX,5,Locked
+18265027,169,Sp. Eq (Exclusive),?????,Am RFB Quad Rail,90493292,Am RFB,-,-,-,-,-,48%,18%,-,-,-,-,-,-,-,30000,10,MAX,16,Locked
+18383979,105,Sp. Eq (Exclusive),?????,PM 5-25X56,-,-,-,-,-,-,-,31.0000%,13.0000%,-,-,-,-,-,-,-,2976,3,MAX,0,Locked
+19286547,40,T Exo (Body),?????,IOP T4 Exoskeleton,8619544,Thompson,-6,-,30,-,-,-,-,-,-,-,-,-,-,-,1976,5,MAX,16,Locked
+19390134,90,Cape (Body),?????,Thermoptic Camouflage Cape,-,-,-,-,-,-3.0000,-,-,25%,-,-,-,-,-,-,-,10000,10,MAX,10,Locked
+19643556,4,Optical (Acc),?????,VFL 6-24X56,-,-,-,-,-,-,-,24%,-,-,-,-,-,-,-,-,0,0,MAX,6,Locked
+19737577,4,Optical (Acc),?????,VFL 6-24X56,-,-,-,-,-,-,-,24%,-,-,-,-,-,-,-,-,0,0,MAX,16,Locked
+19901970,44,Plate (Body),?????,Type 3 Armor Plate,-,-,-,-,-2.7552,-,-,-,-,-,7.0402,-,-,-,-,-,1,0,,0,Locked
+20222715,126,Sp. Eq (Exclusive),?????,Dinergate RO,8627194,M4 SOPMOD II Mod,35,14,-,-,-2,-,-,-,-,-,-,-,-,-,30000,10,MAX,5,Locked
+20222716,125,Sp. Eq (Exclusive),?????,Additional Computing Module,-,-,-,-,15,-,-,25%,-,-,-,-,-,-,-,-,30000,10,MAX,16,Locked
+20483034,72,HP (Ammo),?????,ILM Hollow-Point Ammo,8619544,Thompson,12,-,-,-,-,-,-,-7,-,-,-,-,-,-,2601,5,MAX,16,Locked
+20493790,16,PEQ (Acc),?????,PEQ-16A,90467377,AN-94 Mod,-,-,-,-,-,-,-,-,-,-,-,-,100%,-,1,0,MAX,5,Locked
+20515096,16,PEQ (Acc),?????,PEQ-16A,36399646,Ribeyrolles Mod,-,-,-,-,-,-,-,-,-,-,-,-,100%,-,1,0,MAX,18,Locked
+20606561,129,Sp. Eq (Exclusive),?????,M2 Bipod,8443407,M14 Mod,-,10,-,-,-,48%,-,-,-,-,-,-,-,-,30000,10,MAX,8,Locked
+20992381,40,T Exo (Body),?????,IOP T4 Exoskeleton,-,-,-6,-,25,-,-,-,-,-,-,-,-,-,-,-,1,0,MAX,10,Locked
+21020013,127,Sp. Eq (Exclusive),?????,Hi-Performance Tactical Hair Accessory,13687257,Gr G41,19.0000,8.0000,17.0000,-,-,-,-,-,-,-,-,-,-,-,8851,6,MAX,0,Locked
+21243107,175,Sp. Eq (Exclusive),?????,BPR4 & SRM6,83108662,MDR,4,-,9,-,-,36%,-,-,-,-,-,-,-,-,6551,5,MAX,16,Locked
+21265362,101,Sp. Eq (Exclusive),?????,XM261 ACP,-,-,12,-,-,-,-,-,-,-7,-,-,-,-,-,-,3201,3,MAX,6,Locked
+21475849,72,HP (Ammo),?????,ILM Hollow-Point Ammo,75920428,P90,10,-,-,-,-,-,-,-7,-,-,-,-,-,-,1,0,MAX,11,Locked
+22038251,117,Sp. Eq (Exclusive),?????,Glorylight,-,-,-,-,-,-,-,-,-,-,-,-,-,-,100.0000%,-,1,0,MAX,0,Locked
+22155326,118,Sp. Eq (Exclusive),?????,Black Cat,-,-,-,-,-,-,-,-,-,-,-,-,-,-,100.0000%,-,1,0,MAX,0,Locked
+22873635,104,Sp. Eq (Exclusive),?????,Fire Selector,-,-,-,-,-,-,5,48%,-,-,-,-,-,-,-,-,30000,10,MAX,16,Locked
+23087477,155,Sp. Eq (Exclusive),?????,PPK Suppressor,-,-,-,-,11.982,-,-,18.2178%,-,-,-,-,-,-,-,-,901,1,,0,Locked
+23088756,124,Sp. Eq (Exclusive),?????,Gr G3 Barrel Kit,-,-,4,-,-,-,-,17%,-,-,-,-,-,-,-,-,1,0,,1,Locked
+23987615,4,Optical (Acc),?????,VFL 6-24X56,-,-,-,-,-,-,-,24%,-,-,-,-,-,-,-,-,0,0,MAX,5,Locked
+24154414,72,HP (Ammo),?????,ILM Hollow-Point Ammo,90466169,Honey Badger,10,-,-,-,-,-,-,-7,-,-,-,-,-,-,1,0,MAX,6,Locked
+24322303,66,Supp (Silencer),?????,AC4 Suppressor,-,-,-,-,6.8742,-,-,12.9195%,-,-,-,-,-,-,-,-,0,0,,0,Locked
+24343584,4,Optical (Acc),?????,VFL 6-24X56,-,-,-,-,-,-,-,36%,-,-,-,-,-,-,-,-,2700,5,MAX,10,Locked
+24541867,90,Cape (Body),?????,Thermoptic Camouflage Cape,-,-,-,-,-,-3.0000,-,-,25%,-,-,-,-,-,-,-,10000,10,MAX,6,Locked
+24631183,90,Cape (Body),?????,Thermoptic Camouflage Cape,-,-,-,-,-,-3.0000,-,-,25%,-,-,-,-,-,-,-,10000,10,MAX,6,Locked
+24677760,44,Plate (Body),?????,Type 3 Armor Plate,-,-,-,-,-2.1612,-,-,-,-,-,7.0088,-,-,-,-,-,0,0,,0,Locked
+24809076,90,Cape (Body),?????,Thermoptic Camouflage Cape,-,-,-,-,-,-3.0000,-,-,25%,-,-,-,-,-,-,-,10000,10,MAX,8,Locked
+24832213,134,Sp. Eq (Exclusive),?????,MPL M21,86555408,Micro Uzi Mod,5,18,-,-,-1,-,-,-,-,-,-,-,-,-,1,0,MAX,16,Locked
+24833027,32,HV (Ammo),?????,APCR High-Velocity Ammo,43420718,AUG,19,-,-,-,-,-,-,-,-,-,-,-,-,-,8500,9,MAX,2,Locked
+24877971,72,HP (Ammo),?????,ILM Hollow-Point Ammo,-,-,10,-,-,-,-,-,-,-7,-,-,-,-,-,-,1,0,MAX,9,Locked
+24925969,16,PEQ (Acc),?????,PEQ-16A,42961073,Suomi Mod,-,-,-,-,-,-,-,-,-,-,-,-,100%,-,0,0,MAX,2,Locked
+24945544,80,Slug (Shell),?????,SABOT Slug,-,-,-,9.0104,-,-,-,-,-,-,-,-,-,-,-,-,0,0,,0,Locked
+24945757,132,Sp. Eq (Exclusive),?????,Gr MG4 MGO,-,-,-,18.0000,-,-,-1.0000,20.0000%,-,-,-,-,-,-,-,-,1,0,MAX,0,Locked
+25001929,72,HP (Ammo),?????,ILM Hollow-Point Ammo,-,-,10,-,-,-,-,-,-,-7,-,-,-,-,-,-,0,0,MAX,16,Locked
+25011718,182,Sp. Eq (Exclusive),?????,S&B762,-,-,20,-,-,-,-4.0000,-,-,-,-,-,-,-,-,-,6376,5,MAX,6,Locked
+25028579,44,Plate (Body),?????,Type 3 Armor Plate,-,-,-,-,-2.7245,-,-,-,-,-,7.5612,-,-,-,-,-,0,0,,0,Locked
+25030320,32,HV (Ammo),?????,APCR High-Velocity Ammo,8787621,TAR-21,18,-,-,-,-,-,-,-,-,-,-,-,-,-,7275,8,MAX,3,Locked
+25044835,90,Cape (Body),?????,Thermoptic Camouflage Cape,-,-,-,-,-,-3.0000,-,-,23%,-,-,-,-,-,-,-,7426,8,MAX,2,Locked
+25056134,79,Slug (Shell),????,WAD Slug,-,-,-,5.9478,-,-,-,-,-,-,-,-,-,-,-,-,0,0,,0,Locked
+25089066,66,Supp (Silencer),?????,AC4 Suppressor,-,-,-,-,6.6962,-,-,12.9744%,-,-,-,-,-,-,-,-,0,0,,0,Locked
+25145220,20,AP (Ammo),?????,Mk211 High-Explosive Armor-Piercing Ammo,-,-,-,-,-,-,-,-,-,179.3535,-,-,-,-,-,-,10000,10,,0,Locked
+25208824,80,Slug (Shell),?????,SABOT Slug,-,-,-,8.3116,-,-,-,-,-,-,-,-,-,-,-,-,0,0,,0,Locked
+25208825,20,AP (Ammo),?????,Mk211 High-Explosive Armor-Piercing Ammo,-,-,-,-,-,-,-,-,-,180,-,-,-,-,-,-,10000,10,MAX,6,Locked
+25246450,66,Supp (Silencer),?????,AC4 Suppressor,-,-,-,-,7.1664,-,-,13.3683%,-,-,-,-,-,-,-,-,0,0,,0,Locked
+25246451,32,HV (Ammo),?????,APCR High-Velocity Ammo,9361729,9A-91,17,-,-,-,-,-,-,-,-,-,-,-,-,-,3550,6,MAX,7,Locked
+25282626,68,MG Box (Body),?????,IOP Maximum Ammo Box,-,-,-,-,-2.5654,-,-,-,-,-,-,-,-,-,-,2.2863,0,0,,0,Locked
+25311927,32,HV (Ammo),?????,APCR High-Velocity Ammo,157602238,AK-15 Mod,20,-,-,-,-,-,-,-,-,-,-,-,-,-,10000,10,MAX,4,Locked
+25356753,58,X Exo (Body),?????,IOP X4 Exoskeleton,-,-,-,-,12,-,-,-,-,-,-,-,-,-,-,-,0,0,MAX,2,Locked
+25358935,16,PEQ (Acc),?????,PEQ-16A,8219000,M4A1 Mod,-,-,-,-,-,-,-,-,-,-,-,-,100%,-,0,0,MAX,12,Locked
+25383490,68,MG Box (Body),?????,IOP Maximum Ammo Box,-,-,-,-,-2.5698,-,-,-,-,-,-,-,-,-,-,2.3305,0,0,,0,Locked
+25417028,40,T Exo (Body),?????,IOP T4 Exoskeleton,-,-,-6,-,25,-,-,-,-,-,-,-,-,-,-,-,0,0,MAX,13,Locked
+25590299,179,Sp. Eq (Exclusive),?????,WML & Tactical Handguard,21301094,M950A Mod,-,-,20,-,-,20%,-,-,-,-,-,-,-,-,30000,10,MAX,6,Locked
+25599793,80,Slug (Shell),?????,SABOT Slug,-,-,-,9.9192,-,-,-,-,-,-,-,-,-,-,-,-,0,0,,0,Locked
+25765908,161,Sp. Eq (Exclusive),?????,Advanced Infantry Sight,-,-,3,-,-,-,-,33%,-,-,-,-,-,-,-,-,4001,4,MAX,6,Locked
+26316462,133,Sp. Eq (Exclusive),?????,Stechkin Buttstock,8234961,Stechkin Mod,-,3,9,-,-,18%,-,-,-,-,-,-,-,-,9500,6,MAX,13,Locked
+26393681,165,Sp. Eq (Exclusive),?????,Tactical Earphones,8787621,TAR-21,5.0000,-,11.5572,-,5.0000,-,-,-,-,-,-,-,-,-,0,0,,0,Locked
+26393810,62,Sp. Eq (Exclusive),?????,GSG UX Exoskeleton,8788049,Gr MP5 Mod,-6,-,55,-,-,-,-,-,-,-,-,-,-,-,20000,8,MAX,19,Locked
+26394129,79,Slug (Shell),????,WAD Slug,-,-,-,6.7950,-,-,-,-,-,-,-,-,-,-,-,-,0,0,,0,Locked
+26741982,183,Sp. Eq (Exclusive),?????,Duelling Cards,-,-,-,-,-,-3.0000,-,-,45%,-,-,-,-,-,-,-,30000,10,MAX,9,Locked
+26741984,187,Sp. Eq (Exclusive),?????,Antique Kaleidoscope,-,-,-,1.030,6.98,-,-,13.4364%,-,-,-,-,-,-,-,-,1,0,,0,Locked
+26760151,184,Sp. Eq (Exclusive),?????,Fairy Tale Picture Books,-,-,10,-,14,-,-,-,-,-,-,-,-,-,-,-,3326,3,MAX,16,Locked
+26793416,186,Sp. Eq (Exclusive),?????,Bayonet,-,-,7.8301,-,-,-,-,13.2995%,12.0310%,-,-,-,-,-,-,-,1,0,,0,Locked
+26808861,185,Sp. Eq (Exclusive),?????,Spectacles,-,-,3.5230,1.604,-,-,-,20.0965%,-,-,-,-,-,-,-,-,1,0,,0,Locked
+26816242,188,Sp. Eq (Exclusive),?????,Meteorite,-,-,3.4776,2.2550,-,-,-,23.943%,-,-,-,-,-,-,-,-,1,0,,0,Locked
+26834605,189,Sp. Eq (Exclusive),?????,Wristwatch,-,-,3.824,1.8236,-,-,-,21.4125%,-,-,-,-,-,-,-,-,1,0,,0,Locked
+26893267,58,X Exo (Body),?????,IOP X4 Exoskeleton,-,-,-,-,12,-,-,-,-,-,-,-,-,-,-,-,0,0,MAX,6,Locked
+27088178,95,HP (Ammo),?????,16Lab Hollow-Point,7401385,Vector,10.0000,-,-,-,-,-,-,-7.0000,-,-,-,-,-,-,1,0,MAX,0,Locked
+27123139,110,HV (Ammo),?????,16Lab High-Velocity Ammo,14884092,Gr G11 Mod,20.0000,-,-,-,-,-,-,-,-,-,-,-,-,-,10000,10,MAX,0,Locked
+27276922,68,MG Box (Body),?????,IOP Maximum Ammo Box,-,-,-,-,-2.224,-,-,-,-,-,-,-,-,-,-,2.4843,0,0,,0,Locked
+27335834,80,Slug (Shell),?????,SABOT Slug,-,-,-,10.4708,-,-,-,-,-,-,-,-,-,-,-,-,1,0,,0,Locked
+27359986,66,Supp (Silencer),?????,AC4 Suppressor,-,-,-,-,6.5146,-,-,12.0396%,-,-,-,-,-,-,-,-,0,0,,0,Locked
+27416301,32,HV (Ammo),?????,APCR High-Velocity Ammo,61280388,K11,17,-,-,-,-,-,-,-,-,-,-,-,-,-,3825,6,MAX,6,Locked
+27967920,160,Sp. Eq (Exclusive),?????,No32 MKI,-,-,-,-,-,-,3.0000,40.0000%,-,-,-,-,-,-,-,-,12701,7,MAX,0,Locked
+27993680,58,X Exo (Body),?????,IOP X4 Exoskeleton,-,-,-,-,12,-,-,-,-,-,-,-,-,-,-,-,1,0,MAX,6,Locked
+28288680,72,HP (Ammo),?????,ILM Hollow-Point Ammo,-,-,7.3603,-,-,-,-,-,-,-8.2066,-,-,-,-,-,-,1,0,,0,Locked
+28508730,32,HV (Ammo),?????,APCR High-Velocity Ammo,-,-,12,-,-,-,-,-,-,-,-,-,-,-,-,-,1,0,MAX,6,Locked
+28636046,80,Slug (Shell),?????,SABOT Slug,-,-,-,10.4396,-,-,-,-,-,-,-,-,-,-,-,-,1,0,,0,Locked
+28654537,201,Sp. Eq (Exclusive),?????,Go-Bag "V",-,-,-6.0000,-,25.0000,-,-,-,-,-,-,-,-,-,-,-,1,0,MAX,0,Locked
+28780730,200,Sp. Eq (Exclusive),?????,.45 Hollow Point Ammo (Incendiary),-,-,12.0000,-,-,-,-,-,-,-7.0000,-,-,-,-,-,-,2401,5,MAX,0,Locked
+28780732,203,Sp. Eq (Exclusive),?????,556 High-Velocity Ammo (Explosive),-,-,12.0000,-,-,-,-,-,-,-,-,-,-,-,-,-,1,0,MAX,0,Locked
+29122667,204,Sp. Eq (Exclusive),?????,416's Go-Bag,-,-,-,-,12.0000,-,-,-,-,-,-,-,-,-,-,-,1,0,MAX,0,Locked
+29123114,199,Sp. Eq (Exclusive),?????,Osprey 45 Silencer,-,-,-,-,8.0000,-,-,15.0000%,-,-,-,-,-,-,-,-,1,0,MAX,0,Locked
+29123368,202,Sp. Eq (Exclusive),?????,ACOG (4X),-,-,-,-,-,-,-,24.0000%,-,-,-,-,-,-,-,-,1,0,MAX,0,Locked
+29174188,79,Slug (Shell),????,WAD Slug,-,-,-,5.9554,-,-,-,-,-,-,-,-,-,-,-,-,1,0,,0,Locked
+29469255,32,HV (Ammo),?????,APCR High-Velocity Ammo,-,-,12,-,-,-,-,-,-,-,-,-,-,-,-,-,1,0,MAX,6,Locked
+29678847,58,X Exo (Body),?????,IOP X4 Exoskeleton,-,-,-,-,9.9144,-,-,-,-,-,-,-,-,-,-,-,0,0,,0,Locked
+29872868,40,T Exo (Body),?????,IOP T4 Exoskeleton,-,-,-6,-,25,-,-,-,-,-,-,-,-,-,-,-,1,0,MAX,6,Locked
+29909444,20,AP (Ammo),?????,Mk211 High-Explosive Armor-Piercing Ammo,-,-,-,-,-,-,-,-,-,180,-,-,-,-,-,-,10000,10,MAX,16,Locked
+29934853,4,Optical (Acc),?????,VFL 6-24X56,-,-,-,-,-,-,-,20.3803%,-,-,-,-,-,-,-,-,0,0,,0,Locked
+30100793,4,Optical (Acc),?????,VFL 6-24X56,-,-,-,-,-,-,-,24%,-,-,-,-,-,-,-,-,0,0,MAX,6,Locked
+30133647,58,X Exo (Body),?????,IOP X4 Exoskeleton,-,-,-,-,9.4740,-,-,-,-,-,-,-,-,-,-,-,1,0,,0,Locked
+30285082,158,Sp. Eq (Exclusive),?????,Acceleration Coil,97457464,Type88 Mod,5,-,-,-,-,50%,-,-,-,-,-,-,-,-,30000,10,MAX,6,Locked
+30298906,68,MG Box (Body),?????,IOP Maximum Ammo Box,-,-,-,-,-2.82,-,-,-,-,-,-,-,-,-,-,2.3061,1,0,,0,Locked
+30414425,4,Optical (Acc),?????,VFL 6-24X56,-,-,-,-,-,-,-,20.9823%,-,-,-,-,-,-,-,-,0,0,,0,Locked
+30465561,157,Sp. Eq (Exclusive),?????,LED Weapon Light,-,-,5.1526,7.8776,10,-,-,-,-,-,-,-,-,-,-,-,1,0,,0,Locked
+30651434,4,Optical (Acc),?????,VFL 6-24X56,-,-,-,-,-,-,-,20.0177%,-,-,-,-,-,-,-,-,0,0,,0,Locked
+30702911,174,Sp. Eq (Exclusive),?????,FRAG-12 High Explosive Rounds,126846317,AA-12,8.0000,12.000,-,-,-,-,-,-,-,-,-,-,-,-,1,0,MAX,0,Locked
+30763125,4,Optical (Acc),?????,VFL 6-24X56,-,-,-,-,-,-,-,19.7979%,-,-,-,-,-,-,-,-,0,0,,0,Locked
+30780159,16,PEQ (Acc),?????,PEQ-16A,14884092,Gr G11 Mod,-,-,-,-,-,-,-,-,-,-,-,-,100%,-,1,0,MAX,14,Locked
+30820952,20,AP (Ammo),?????,Mk211 High-Explosive Armor-Piercing Ammo,-,-,-,-,-,-,-,-,-,174,-,-,-,-,-,-,9575,9,MAX,15,Locked
+30895070,40,T Exo (Body),?????,IOP T4 Exoskeleton,75920428,P90,-6,-,25,-,-,-,-,-,-,-,-,-,-,-,1,0,MAX,16,Locked
+30952054,4,Optical (Acc),?????,VFL 6-24X56,-,-,-,-,-,-,-,20.171%,-,-,-,-,-,-,-,-,0,0,,0,Locked
+31178777,4,Optical (Acc),?????,VFL 6-24X56,-,-,-,-,-,-,-,20.0786%,-,-,-,-,-,-,-,-,0,0,,0,Locked
+31295724,58,X Exo (Body),?????,IOP X4 Exoskeleton,-,-,-,-,9.2672,-,-,-,-,-,-,-,-,-,-,-,0,0,,0,Locked
+31350943,159,Sp. Eq (Exclusive),?????,Tactical Headwear,9362189,416 Mod,14,-,14,-,-,-,8%,-,-,-,-,-,-,-,3103,3,MAX,15,Locked
+31375404,4,Optical (Acc),?????,VFL 6-24X56,-,-,-,-,-,-,-,21.76%,-,-,-,-,-,-,-,-,1,0,,0,Locked
+31408611,16,PEQ (Acc),?????,PEQ-16A,23760171,RO635 Mod,-,-,-,-,-,-,-,-,-,-,-,-,100%,-,0,0,MAX,6,Locked
+31451866,66,Supp (Silencer),?????,AC4 Suppressor,-,-,-,-,6.690,-,-,14.019%,-,-,-,-,-,-,-,-,1,0,,0,Locked
+31792413,117,Sp. Eq (Exclusive),?????,Glorylight,-,-,-,-,-,-,-,-,-,-,-,-,-,-,100.0000%,-,1,0,MAX,0,Locked
+31890726,4,Optical (Acc),?????,VFL 6-24X56,-,-,-,-,-,-,-,18.288%,-,-,-,-,-,-,-,-,0,0,,0,Locked
+31980374,16,PEQ (Acc),?????,PEQ-16A,90466169,Honey Badger,-,-,-,-,-,-,-,-,-,-,-,-,95.1661%,-,0,0,,0,Locked
+32005773,90,Cape (Body),?????,Thermoptic Camouflage Cape,-,-,-,-,-,-3.0000,-,-,23%,-,-,-,-,-,-,-,6530,8,MAX,10,Locked
+32036365,32,HV (Ammo),?????,APCR High-Velocity Ammo,-,-,12,-,-,-,-,-,-,-,-,-,-,-,-,-,1,0,MAX,6,Locked
+32227631,8,EOT (Holographic),?????,EOT 518,-,-,4.98,8.7572,-,-,-5.3768,-,-,-,-,-,-,-,-,-,0,0,,0,Locked
+32346982,58,X Exo (Body),?????,IOP X4 Exoskeleton,-,-,-,-,10.7376,-,-,-,-,-,-,-,-,-,-,-,0,0,,0,Locked
+32412531,4,Optical (Acc),?????,VFL 6-24X56,-,-,-,-,-,-,-,24%,-,-,-,-,-,-,-,-,1,0,MAX,7,Locked
+32554827,20,AP (Ammo),?????,Mk211 High-Explosive Armor-Piercing Ammo,-,-,-,-,-,-,-,-,-,162,-,-,-,-,-,-,4976,7,MAX,17,Locked
+32589705,16,PEQ (Acc),?????,PEQ-16A,157602238,AK-15 Mod,-,-,-,-,-,-,-,-,-,-,-,-,100%,-,1,0,MAX,11,Locked
+32914013,221,Sp. Eq (Exclusive),?????,Magnetic Accelerated Rounds,97457464,Type88 Mod,5,-,-,-,-,-,-,180,-,-,-,-,-,-,30000,10,MAX,16,Locked
+32914017,180,Sp. Eq (Exclusive),?????,Tactical Grip,-,-,-,-,8.3795,-,-,12.6393%,-,-,-,-,-,-,-,-,1,0,,0,Locked
+32914018,181,Sp. Eq (Exclusive),?????,RIP380ACP,7314592,Skorpion,8.1094,-,-,-,-4.0000,-,-,-8.2207,-,-,-,-,-,-,1,0,,0,Locked
+33186571,20,AP (Ammo),?????,Mk211 High-Explosive Armor-Piercing Ammo,-,-,-,-,-,-,-,-,-,150,-,-,-,-,-,-,2100,5,MAX,11,Locked
+33316879,16,PEQ (Acc),?????,PEQ-16A,90494159,AK-12,-,-,-,-,-,-,-,-,-,-,-,-,100%,-,1,0,MAX,16,Locked
+33473267,40,T Exo (Body),?????,IOP T4 Exoskeleton,-,-,-7.0618,-,20.8220,-,-,-,-,-,-,-,-,-,-,-,0,0,,0,Locked
+39358856,312,MG Bipod (Body),???,HD-50 Bipod,-,-,-,2.0564,-,-2.629,-,-,-,-,-,-,-,-,-,-,0,0,,0,Locked
+39358857,312,MG Bipod (Body),???,HD-50 Bipod,-,-,-,1.8584,-,-2.546,-,-,-,-,-,-,-,-,-,-,0,0,,0,Locked
+39358860,228,SLAP (Ammo),????,Mk900 SLAP,-,-,-,-,-,-,-5.0000,-,-,194.9550,-,-,-,-,-,-,0,0,,0,Locked
+39358861,228,SLAP (Ammo),????,Mk900 SLAP,-,-,-,-,-,-,-5.0000,-,-,191.3580,-,-,-,-,-,-,0,0,,0,Locked
+39358862,228,SLAP (Ammo),????,Mk900 SLAP,-,-,-,-,-,-,-5.0000,-,-,193.9550,-,-,-,-,-,-,0,0,,0,Locked
+39364482,49,PEQ (Acc),?????,16Lab Infrared Designator,61280388,K11,-,-,-,-,-,-,-,-,-,-,-,-,100.0000%,-,1,0,MAX,0,Locked
+39365158,256,Sp. Eq (Exclusive),?????,MICO,-,-,-,-,-,-,-,13.3941%,-,-,-,-,-,-,-,3.1477,1,0,,0,Locked
+39365838,233,Processor Chip (Body),????,#1 Processor,-,-,5.7344,-,-,-,8.6774,-,-50.0000%,-,-,-,-,-,-,-,0,0,,0,Locked
+39365845,231,Birdshot (Shell),?????,#7.5 Birdshot,-,-,-,-,-,-,6.9582,-,-15.9980%,-,-,-,-,-,-,-,0,0,,0,Locked
+39369461,235,Flash (Shell),?????,Shotgun Flash Shells,154633082,DP-12,-,9.8856,-,-,-,-,-,-,-,-,-,-,-,-,0,0,,0,Locked
+39371370,109,Optical (Acc),?????,16Lab 6-24X56,-,-,-,-,-,-,-,24.000%,-,-,-,-,-,-,-,-,1,0,MAX,0,Locked
+39382967,110,HV (Ammo),?????,16Lab High-Velocity Ammo,-,-,12.0000,-,-,-,-,-,-,-,-,-,-,-,-,-,1,0,MAX,0,Locked
+39412076,234,Processor Chip (Body),?????,#2 Processor,157602238,AK-15 Mod,15,-,-,-,25,-,-50.0000%,-,-,-,-,-,-,-,10000,10,MAX,11,Locked
+39457707,233,Processor Chip (Body),????,#1 Processor,-,-,5.4856,-,-,-,8.9164,-,-50.0000%,-,-,-,-,-,-,-,0,0,,0,Locked
+39457770,306,Choke (Acc),???,Mk3 Choke,-,-,-,1.9912,-,-,-,-,-,-,-,-,-,-,-,1.0000,0,0,,0,Locked
+39478845,225,Flare (Ammo),?????,Signal Flare,-,-,-,-,-,-,-3.0860,-,-,-,-,-,-,-,-,-,1,0,,0,Locked
+39482435,228,SLAP (Ammo),????,Mk900 SLAP,-,-,-,-,-,-,-5.0000,-,-,190.7210,-,-,-,-,-,-,0,0,,0,Locked
+39482436,233,Processor Chip (Body),????,#1 Processor,-,-,4.8454,-,-,-,9.3568,-,-50.0000%,-,-,-,-,-,-,-,0,0,,0,Locked
+39482440,234,Processor Chip (Body),?????,#2 Processor,90467377,AN-94 Mod,15,-,-,-,25,-,-50.0000%,-,-,-,-,-,-,-,10000,10,MAX,16,Locked
+39484204,235,Flash (Shell),?????,Shotgun Flash Shells,12651449,RMB-93 Mod,-,10.3856,-,-,-,-,-,-,-,-,-,-,-,-,0,0,,0,Locked
+39484969,8,EOT (Holographic),?????,EOT 518,-,-,4.0972,6.6876,-,-,-5.272,-,-,-,-,-,-,-,-,-,1,0,,0,Locked
+39495525,305,SF Taclight (Acc),?????,S.F. Modified Tactical Light,75920428,P90,-,-,5,-,-,-,-,-,-,-,-,-,-,-,0,0,MAX,6,Locked
+39501531,305,SF Taclight (Acc),?????,S.F. Modified Tactical Light,71017113,Dorothy Haze,-,-,5,-,-,-,-,-,-,-,-,-,-,-,0,0,MAX,1,Locked
+39502238,305,SF Taclight (Acc),?????,S.F. Modified Tactical Light,-,-,-,-,5,-,-,-,-,-,-,-,-,-,-,-,0,0,MAX,4,Locked
+39510646,72,HP (Ammo),?????,ILM Hollow-Point Ammo,-,-,8.2291,-,-,-,-,-,-,-8.668,-,-,-,-,-,-,0,0,,0,Locked
+39510721,305,SF Taclight (Acc),?????,S.F. Modified Tactical Light,-,-,-,-,5,-,-,-,-,-,-,-,-,-,-,-,0,0,MAX,2,Locked
+39521570,309,Focus Chip (Body),?????,Focus Chip,-,-,7,-,-,-,-10,-,23%,-,-,-,-,-,-,-,950,3,MAX,26,Locked
+39525987,326,Sp. Eq (Exclusive),?????,Beginner's Shamisen,-,-,1.9916,2.4566,-,-,-,18.749%,-,-,-,-,-,-,-,-,1,0,,0,
+39536059,328,Sp. Eq (Exclusive),?????,Star Hair Clip,-,-,-,8.1772,-,-,-,-,-,-,-,-,-,-,-,-,1,0,,0,
+39553497,327,Sp. Eq (Exclusive),?????,Dried Shredded Squid,-,-,11.6265,-6.9338,-,-,-,-,-,-,-,-,-,-,-,-,1,0,,0,
+39580797,315,Sp. Eq (Exclusive),?????,FP6 Folding Stock,-,-,-,22.4565,-,-,-2.8858,-,-,-,-,-,-,-,-,-,1,0,,0,
+39597131,309,Focus Chip (Body),?????,Focus Chip,7401385,Vector,8,-,-,-,-10,-,26%,-,-,-,-,-,-,-,3300,6,MAX,26,Locked
+39597928,325,Sp. Eq (Exclusive),?????,Loudspeaker,-,-,-,-,-,-,-,18.5543%,9.35%,-,-,-,-,-,-,-,1,0,,0,
+39599572,331,Sp. Eq (Exclusive),?????,Leader's Armband,-,-,4.7210,-1.0000,-,-,-,-,-,-,6.2890,-,-,-,-,-,1,0,,0,
+39605745,329,Sp. Eq (Exclusive),?????,Bento of Love,-,-,10.8386,-,-,-,14.9352,-,-50.0000%,-,-,-,-,-,-,-,1,0,,0,
+39606491,234,Processor Chip (Body),?????,#2 Processor,90494159,AK-12,13,-,-,-,22,-,-50.0000%,-,-,-,-,-,-,-,4400,7,MAX,4,Locked
+39611743,330,Sp. Eq (Exclusive),?????,Ozaki Figurine,-,-,6.8483,-,-,-,-2.1192,-,24.5646%,-,-,-,-,-,-,-,1,0,,0,
+39673306,190,Sp. Eq (Exclusive),?????,G-box,14884092,Gr G11 Mod,18.0000,9,-,-,-,-,22.0000%,-,-,-,-,-,-,-,20652,8,MAX,5,Locked
+39725839,318,Sp. Eq (Exclusive),?????,M948 Mod X,201734676,SCAR-H,3,-,-,-,-,-,-,170.8,-,-,-,-,-,-,3451,3,,13,Locked
+39736355,317,Sp. Eq (Exclusive),?????,MK318 Mod X,202011039,SCAR-L,11.75,-,-,-,-,-,-,-,-,-,-,-,-,-,1151,1,,1,Locked
+39739803,72,HP (Ammo),?????,ILM Hollow-Point Ammo,-,-,7.7485,-,-,-,-,-,-,-7.6759,-,-,-,-,-,-,1,0,,0,Locked
+39756233,316,Sp. Eq (Exclusive),?????,PT-2 Telescopic Stock,29672160,PKP,3,25,-,-,-,25%,-,-,-,-,-,-,-,-,12101,7,MAX,12,Locked
+39815923,305,SF Taclight (Acc),?????,S.F. Modified Tactical Light,8619544,Thompson,-,-,5,-,-,-,-,-,-,-,-,-,-,-,0,0,MAX,6,Locked
+39830964,220,Sp. Eq (Exclusive),?????,Special Steel Buttstock,14671724,M1919A4,-,14.5298,-,-,-,15.0000%,3.7858%,-,-,-,-,-,-,-,1,0,,0,Locked
+39837320,233,Processor Chip (Body),????,#1 Processor,61280388,K11,4.0224,-,-,-,9.1464,-,-50.0000%,-,-,-,-,-,-,-,0,0,,0,
+39837321,233,Processor Chip (Body),????,#1 Processor,43420718,AUG,4.7712,-,-,-,8.996,-,-50.0000%,-,-,-,-,-,-,-,0,0,,0,
+39840201,305,SF Taclight (Acc),?????,S.F. Modified Tactical Light,-,-,-,-,5,-,-,-,-,-,-,-,-,-,-,-,0,0,MAX,4,Locked
+39841245,229,SLAP (Ammo),?????,Mk1000 SLAP,-,-,-,-,-,-,-5.0000,-,-,350,-,-,-,-,-,-,1550,4,MAX,7,Locked
+39841246,228,SLAP (Ammo),????,Mk900 SLAP,-,-,-,-,-,-,-5.0000,-,-,193.690,-,-,-,-,-,-,0,0,,0,
+39841247,228,SLAP (Ammo),????,Mk900 SLAP,-,-,-,-,-,-,-5.0000,-,-,195.990,-,-,-,-,-,-,0,0,,0,Locked
+39844717,228,SLAP (Ammo),????,Mk900 SLAP,-,-,-,-,-,-,-5.0000,-,-,195.6150,-,-,-,-,-,-,0,0,,0,Locked
+39844718,228,SLAP (Ammo),????,Mk900 SLAP,-,-,-,-,-,-,-5.00,-,-,193.3450,-,-,-,-,-,-,0,0,,0,
+39844719,228,SLAP (Ammo),????,Mk900 SLAP,-,-,-,-,-,-,-5.0000,-,-,193.7140,-,-,-,-,-,-,0,0,,0,
+39847977,223,RMR (Acc),????,RMR T2 Red Dot Sight,-,-,-,6.8535,-,-,-,9.0675%,-,-,-,-,-,-,-,-,0,0,,0,
+39847978,233,Processor Chip (Body),????,#1 Processor,-,-,4.9378,-,-,-,8.5774,-,-50.0000%,-,-,-,-,-,-,-,0,0,,0,
+39852987,226,SNIP (Ammo),????,M33 Sniper Rounds,-,-,1.9878,-,-,-,-,-,-,51.0370,-,-,-,-,-,-,0,0,,0,
+39853020,313,MG Bipod (Body),????,HD-50 Bipod Mk2,-,-,-,2.2866,-,-2.6564,-,-,-,-,-,-,-,-,-,-,0,0,,0,
+39853039,233,Processor Chip (Body),????,#1 Processor,-,-,5.7594,-,-,-,8.7674,-,-50.0000%,-,-,-,-,-,-,-,0,0,,0,
+39853085,234,Processor Chip (Body),?????,#2 Processor,36399646,Ribeyrolles Mod,10,-,-,-,16,-,-50.0000%,-,-,-,-,-,-,-,0,0,MAX,12,Locked
+39853892,234,Processor Chip (Body),?????,#2 Processor,65388085,AS Val Mod,10,-,-,-,16,-,-50.0000%,-,-,-,-,-,-,-,0,0,MAX,16,Locked
+39854387,234,Processor Chip (Body),?????,#2 Processor,202011039,SCAR-L,13,-,-,-,21,-,-50.0000%,-,-,-,-,-,-,-,2875,6,MAX,16,Locked
+39854973,66,Supp (Silencer),?????,AC4 Suppressor,-,-,-,-,6.3982,-,-,12.7026%,-,-,-,-,-,-,-,-,0,0,,0,
+39854975,234,Processor Chip (Body),?????,#2 Processor,36064660,Gr G36 Mod,10,-,-,-,16,-,-50.0000%,-,-,-,-,-,-,-,0,0,MAX,6,Locked
+39855460,310,Rangefinder (Body),????,M1050 LRF,-,-,1.8408,-,-,-,-,-,-,-,-,-,-,-,-,-,0,0,,0,
+39855482,313,MG Bipod (Body),????,HD-50 Bipod Mk2,-,-,-,2.9706,-,-2.6762,-,-,-,-,-,-,-,-,-,-,0,0,,0,
+39855490,223,RMR (Acc),????,RMR T2 Red Dot Sight,-,-,-,6.5007,-,-,-,10.6899%,-,-,-,-,-,-,-,-,0,0,,0,
+39860213,226,SNIP (Ammo),????,M33 Sniper Rounds,-,-,1.9802,-,-,-,-,-,-,55.0550,-,-,-,-,-,-,0,0,,0,
+39860322,20,AP (Ammo),?????,Mk211 High-Explosive Armor-Piercing Ammo,-,-,-,-,-,-,-,-,-,111.7680,-,-,-,-,-,-,0,0,,0,
+39861266,286,Sp. Eq (Exclusive),?????,M43 Flare Pistol,42961073,Suomi Mod,-,12.5535,-,-,-,-,-,-,-,-,-,-,-,-,1,0,,0,
+39861275,232,Processor Chip (Body),???,Experimental Processor,-,-,2.462,-,-,-,3.4576,-,-50.0000%,-,-,-,-,-,-,-,0,0,,0,
+39861396,69,HP (Ammo),??,ILM Hollow-Point Ammo,-,-,1.0000,-,-,-,-,-,-,-1.0000,-,-,-,-,-,-,0,0,MAX,0,
+39861537,72,HP (Ammo),?????,ILM Hollow-Point Ammo,-,-,8.0434,-,-,-,-,-,-,-9.1666,-,-,-,-,-,-,0,0,,0,
+39861538,79,Slug (Shell),????,WAD Slug,-,-,-,5.6086,-,-,-,-,-,-,-,-,-,-,-,-,0,0,,0,
